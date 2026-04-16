@@ -53,7 +53,9 @@ This tool is provided for educational, testing, and security validation purposes
 Use of this tool should be limited to:
 
 Authorized environments
+
 Lab or approved enterprise systems
+
 The author assumes no liability or responsibility for:
 
 Misuse of this tool
