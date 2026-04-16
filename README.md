@@ -2,9 +2,12 @@
 
 An easy to use, GUI‑driven PowerShell utility for generating client‑ready Microsoft Intune assessment reports.
 
+
+
 🚀 What It Does
 
 The Intune Assessment Tool connects to Microsoft Graph, gathers key Intune data, and produces a polished HTML report you can hand directly to clients or leadership. No manual exports. No messy scripts. Just click, collect, and deliver.
+
 
 
 📦 Requirements
@@ -30,6 +33,8 @@ Assignment visibility
 
 Actionable recommendations
 
+
+
 🛠 Perfect For
 MSPs delivering Intune health checks
 
@@ -38,6 +43,7 @@ Consultants preparing assessments
 IT admins needing quick visibility
 
 Anyone who wants an automated Intune snapshot
+
 
 
 ⚠️ Disclaimer
