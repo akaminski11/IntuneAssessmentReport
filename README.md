@@ -61,4 +61,5 @@ The author assumes no liability or responsibility for:
 Misuse of this tool
 Damage to systems
 Unauthorized or improper use
+
 By using this tool, you agree to use it in a lawful and responsible manner.
