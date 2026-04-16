@@ -53,6 +53,7 @@ Anyone who wants an automated Intune snapshot
 
 
 ⚠️ Disclaimer
+
 This tool is provided for educational, testing, and security validation purposes only.
 
 Use of this tool should be limited to:
