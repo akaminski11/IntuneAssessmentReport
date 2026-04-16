@@ -46,6 +46,11 @@ Anyone who wants an automated Intune snapshot
 
 
 
+🧠Versions
+This is a work in progress and currently on version 1. 
+
+
+
 ⚠️ Disclaimer
 
 This tool is provided for educational, testing, and security validation purposes only.
