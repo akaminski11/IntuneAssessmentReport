@@ -19,6 +19,7 @@ Delegated Graph permissions (requested automatically on connect)
 
 powershell
 .\IntuneAssessmentTool.ps1
+
 Then:
 
 Click Connect
