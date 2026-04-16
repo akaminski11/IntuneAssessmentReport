@@ -3,10 +3,12 @@
 An easy to use, GUI‑driven PowerShell utility for generating client‑ready Microsoft Intune assessment reports.
 
 🚀 What It Does
+
 The Intune Assessment Tool connects to Microsoft Graph, gathers key Intune data, and produces a polished HTML report you can hand directly to clients or leadership. No manual exports. No messy scripts. Just click, collect, and deliver.
 
 
 📦 Requirements
+
 PowerShell 5.1 or PowerShell 7+
 
 Microsoft Graph PowerShell SDK
@@ -14,6 +16,7 @@ Microsoft Graph PowerShell SDK
 Delegated Graph permissions (requested automatically on connect)
 
 🖥 How to Use
+
 powershell
 .\IntuneAssessmentTool.ps1
 Then:
