@@ -15,19 +15,7 @@ Microsoft Graph PowerShell SDK
 
 Delegated Graph permissions (requested automatically on connect)
 
-🖥 How to Use
 
-powershell
-.\IntuneAssessmentTool.ps1
-
-Then:
-
-Click Connect
-
-(Optional) Select a logo
-
-Click Generate Report  
-Your report will be saved to your Downloads folder.
 
 📊 What’s in the Report
 Tenant details
