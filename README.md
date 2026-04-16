@@ -47,7 +47,8 @@ Anyone who wants an automated Intune snapshot
 
 
 🧠Versions
-This is a work in progress and currently on version 1. 
+
+This is a work in progress and currently on version 1
 
 
 
